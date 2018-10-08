@@ -8,8 +8,7 @@ h2{
     font-size: 25px;
     color: rgb(7, 6, 12) ;  
     font-weight: bold;
-    text-shadow: 5px 5px 2px black;
-}
+    }
 
 .link {
 	margin: auto;
@@ -21,7 +20,7 @@ li a:hover {
 
 header   {
     border: 5px solid rgb(0, 195, 255);
-    background: rgb(0, 225, 255);
+    background: rgb(167, 234, 255);
     border-radius: 10px; 
     margin-bottom: 100px;
     padding-right: 35px;
@@ -84,7 +83,7 @@ img:hover {
 
 .definition {
     border: 5px solid rgb(0, 195, 255); 
-    background: rgb(0, 225, 255);
+    background: rgb(167, 234, 255);
     border-radius: 10px; 
     font-family:  quicksand ;
     font: size 24px;
@@ -96,7 +95,7 @@ img:hover {
 
 .exemple {
     border: 5px solid rgb(0, 195, 255);
-    background: rgb(0, 225, 255);
+    background: rgb(167, 234, 255);
     border-radius: 10px; 
     font-family:  quicksand ;
     font: size 24px;
@@ -108,7 +107,7 @@ img:hover {
    footer{
         border: 5px solid rgb(0, 195, 255);
         border-radius: 10px;
-        background: rgb(0, 225, 255);
+        background: rgb(167, 234, 255);
         text-align: center;
         position: fixed;
         bottom: 0;
