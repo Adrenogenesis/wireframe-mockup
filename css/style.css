@@ -28,7 +28,7 @@ img {
     border-width: 1px;
 	border-color: #0033CC;
 	background-color: #CFFFFF;
-	line-height:0px;
+	line-height: 0px;  
 	border-radius: 12px;
 	margin-bottom: 10px;
 }
@@ -58,13 +58,13 @@ main {
     border-width: 1px;
 	border-color: #0033CC;
 	background-color: #CFFFFF;
-	line-height:0px;
 	border-radius: 12px;
 	clear: both;
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
 	 word-break:break-all;
+	 line-height:90%;
 	}
 
 
@@ -77,7 +77,7 @@ main {
     border-width: 1px;
 	border-color: #0033CC;
 	background-color: #CFFFFF;
-	line-height:0px;
+	line-height:90%;
 	border-radius: 12px;
 	clear: both;
     overflow: hidden;
@@ -101,7 +101,7 @@ main {
     border-width: 1px;
 	border-color: #0033CC;
 	background-color: #CFFFFF;
-	line-height:0px;
+	line-height:90%;
 	border-radius: 12px;
 	clear: both;
     display: inline-block;
